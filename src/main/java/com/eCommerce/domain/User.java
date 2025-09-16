@@ -1,5 +1,6 @@
 package com.eCommerce.domain;
 
+
 import com.eCommerce.domain.security.Authority;
 import com.eCommerce.domain.security.UserRole;
 import com.fasterxml.jackson.annotation.JsonIgnore;
